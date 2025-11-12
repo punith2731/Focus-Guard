@@ -1,0 +1,4 @@
+{
+  "blocked_apps": ["chrome.exe","spotify.exe","discord.exe","steam.exe"],
+  "blocked_websites": ["youtube.com","instagram.com","facebook.com","twitter.com"]
+}
